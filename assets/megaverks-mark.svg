@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Megaverks Technologies</title>
+  <path fill="#00d9a3" d="M4 4h56v44L44 60H4z"/>
+  <path fill="#111816" d="M13 46V17h8l11 16 11-16h8v29h-8V29L32 44 21 29v17z"/>
+  <path fill="#111816" d="M45 48h11l-11 11z" opacity=".72"/>
+</svg>
